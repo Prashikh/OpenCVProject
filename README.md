@@ -1,2 +1,1 @@
-# OpenCVProject
-This is the repo to write the code for and learn CV application for the startup.
+### this is a test of the georgia tech emergency notification system
